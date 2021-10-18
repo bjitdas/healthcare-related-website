@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "QUALIFIED DOCTORS",
+        "img": "https://thumbs.dreamstime.com/b/group-hospital-doctors-over-health-care-clinic-background-89857953.jpg",
+        "description": "SQUARE Hospital aims to provide the highest possible level of care by the qualified consultants from India, Singapore, USA, UK & quality hospitals in the Middle East."
+    },
+    {
+        "id": 2,
+        "name": "MEDICAL COUNSELING",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuKULvK1RnSBUCUF_kSEi-TTEk4v-Ww0izzw&usqp=CAU",
+        "description": "Health and wellness counselors are individuals who provide clients with the tools and motivation necessary to accomplish their emotional and physical health goals."
+    },
+    {
+        "id": 3,
+        "name": "EMERGENCY SERVICES",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJWpJ8Bdw6wtzAg9sfU6mQDBOUW3ThHoxVA&usqp=CAU",
+        "description": "What is included in emergency medical services? Emergency medical services (EMS), also known as ambulance services or paramedic services, are emergency services that provide urgent pre-hospital treatment"
+    },
+    {
+        "id": 4,
+        "name": "OPERATION THEATER",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROH82OhI8Zzyg_axuiQmrLoF-krQODnp8SCA&usqp=CAU",
+        "description": "Early dedicated rooms for surgical procedures were called OPERATING THEATRES because they literally were theatres, built in a gallery style for public observation."
+    },
+    {
+        "id": 5,
+        "name": "EYE CARE",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROH82OhI8Zzyg_axuiQmrLoF-krQODnp8SCA&usqp=CAU",
+        "description": "Primary eye care is the provision of appropriate, accessible, and affordable care that meets patients' eye care needs in a comprehensive and competent manner."
+    },
+    {
+        "id": 6,
+        "name": "DIAGONSTIC TEST",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4MZdJudWSrfczNkhK6hrmlGfGJRHy9ykL1rvnzMXF07AFAyzwrcExZhiYVJm3SymmQo&usqp=CAU",
+        "description": "A type of test used to help diagnose a disease or condition. Mammograms and colonoscopies are examples of diagnostic tests. Also called diagnostic procedure"
+    },
+    {
+        "id": 7,
+        "name": "BLOOD BANK",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ntoxbc2HknProJF2r511jCkqTIireZuWDnvflJ41_ujYSwt69khTBWhAzcdYL2TuVRU&usqp=CAU",
+        "description": "In 1937 Bernard Fantus, director of therapeutics at the Cook County Hospital in Chicago, established one of the first hospital blood banks in the United States. "
+    },
+    {
+        "id": 8,
+        "name": "FREE MEDICINE",
+        "img": "https://images.outlookindia.com/public/uploads/articles/2020/4/1/rajasthans-free-medicine-scheme-secures-top-rank.jpg",
+        "description": "In 1937 Bernard Fantus, director of therapeutics at the Cook County Hospital in Chicago, established one of the first hospital blood banks in the United States. "
+    }
+]
